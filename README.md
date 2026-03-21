@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-based projects and building smart web applications with real-world integrations  <br><br>👯 I’m looking to collaborate on Innovative AI, Generative AI, and full-stack projects that solve practical problems  <br><br>🤝 I’m looking for help with Scaling AI applications and improving system design for production-level projects  <br><br>🌱 I’m currently learning Generative AI, advanced AI integrations, and modern web technologies  <br><br>💬 Ask me about Web development, TypeScript, APIs, AI integrations, and building AI-powered apps  <br><br>⚡ Fun fact I love turning complex ideas into working AI projects faster than most people expect 🚀
+•🔭 I’m currently working on AI-based projects and building smart web applications with real-world integrations<br>•👯 I’m looking to collaborate on Innovative AI, Generative AI, and full-stack projects that solve practical problems  <br>•🤝 I’m looking for help with Scaling AI applications and improving system design for production-level projects  <br>•🌱 I’m currently learning Generative AI, advanced AI integrations, and modern web technologies  <br>•💬 Ask me about Web development, TypeScript, APIs, AI integrations, and building AI-powered apps (Gen AI)  <br>•⚡ Fun fact I love turning complex ideas into working AI projects faster than most people expect 🚀
 
 
 ## 🌐 Socials:
