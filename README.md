@@ -119,7 +119,7 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=HemanthMadhusudhan&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthMadhusudhan&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=HemanthMadhusudhan&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthMadhusudhan&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
 
