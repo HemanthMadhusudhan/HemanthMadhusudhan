@@ -1,18 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0F08,100:1A2B1A&height=220&section=header&text=HEMANTH%20MADHUSUDHAN&fontSize=42&fontColor=CAFF3C&desc=AI%20%2F%20Full-Stack%20Developer&descColor=8AFF57&animation=fadeIn&fontAlignY=40&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0A0F08&height=180&section=header&text=HEMANTH%20MADHUSUDHAN&fontSize=38&fontColor=CAFF3C&desc=AI%20%2F%20Full-Stack%20Developer&descColor=8AFF57&animation=fadeIn&fontAlignY=38&descAlignY=55" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+%2F+Full-Stack+Developer;%24+focus+%E2%86%92+GenAI+%7C+Agents+%7C+Web+Apps;%24+cat+open-to.txt+%E2%86%92+AI+%2F+Full-Stack+roles;%24+status+%E2%86%92+Building+in+public+%F0%9F%9A%80" />
-
-<p><i>Turning complex ideas into working AI systems, faster than expected.</i></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://linkedin.com/in/hemanthmadhusudhan)
 [![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:hemanthmadhusudhan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=0A0F08)](https://github.com/HemanthMadhusudhan)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HemanthMadhusudhan&color=CAFF3C&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" />
 
 </div>
 
@@ -36,8 +32,6 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 - 💬 Ask me about **web development, TypeScript, APIs, and AI-powered apps**
 - ⚡ Fun fact: I turn complex ideas into working AI projects faster than most people expect
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" /></div>
-
 ## `> ls tech-stack/`
 
 <div align="center">
@@ -57,8 +51,6 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 | 🔌 AI Integrations | Connecting LLMs and APIs into real products |
 | 🗄️ Data & Backend | MongoDB, MySQL, Firebase, Supabase |
 | 📊 ML / Data Tools | PyTorch, scikit-learn, NumPy, Pandas |
-
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" /></div>
 
 ## `> ls featured-projects/`
 
@@ -122,22 +114,7 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 
 </details>
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" /></div>
-
 ## `> github-analytics --live`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HemanthMadhusudhan&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
-<img height="165" src="https://streak-stats.demolab.com/?user=HemanthMadhusudhan&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthMadhusudhan&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HemanthMadhusudhan&theme=matrix&no-frame=true&column=7&margin-w=8" />
-</div>
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HemanthMadhusudhan&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true" />
@@ -154,8 +131,6 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 </picture>
 
 </div>
-
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" /></div>
 
 ## `> cat current-focus.yaml`
 
@@ -182,6 +157,6 @@ open_to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://linkedin.com/in/hemanthmadhusudhan)
 [![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:hemanthmadhusudhan@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0F08,100:1A2B1A&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0A0F08&height=100&section=footer" />
 
 </div>
