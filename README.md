@@ -1,14 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&height=200&section=header&text=HEMANTH%20MADHUSUDHAN&fontSize=40&fontColor=CAFF3C&desc=AI%20%26%20Full-Stack%20Developer&descColor=8AFF57&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0F08,100:1A2B1A&height=220&section=header&text=HEMANTH%20MADHUSUDHAN&fontSize=42&fontColor=CAFF3C&desc=AI%20%2F%20Full-Stack%20Developer&descColor=8AFF57&animation=fadeIn&fontAlignY=40&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+%2F+Full-Stack+Developer;%24+focus+%E2%86%92+GenAI+%7C+Agents+%7C+Web+Apps;%24+cat+open-to.txt+%E2%86%92+AI+%26+Full-Stack+roles;%24+status+%E2%86%92+Building+in+public+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+%2F+Full-Stack+Developer;%24+focus+%E2%86%92+GenAI+%7C+Agents+%7C+Web+Apps;%24+cat+open-to.txt+%E2%86%92+AI+%2F+Full-Stack+roles;%24+status+%E2%86%92+Building+in+public+%F0%9F%9A%80" />
+
+<p><i>Turning complex ideas into working AI systems, faster than expected.</i></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://linkedin.com/in/hemanthmadhusudhan)
 [![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:hemanthmadhusudhan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=0A0F08)](https://github.com/HemanthMadhusudhan)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HemanthMadhusudhan&color=CAFF3C&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" />
 
 </div>
 
@@ -19,7 +23,7 @@ I build AI-powered applications and full-stack web products — from GenAI agent
 ```bash
 $ cat .profile
 
-ROLE     =  AI & Full-Stack Developer
+ROLE     =  AI / Full-Stack Developer
 STACK    =  TypeScript · Python · React · Node.js
 DOMAIN   =  Generative AI  |  AI Agents  |  Full-Stack Web
 OPEN_TO  =  AI / Full-Stack Engineering roles
@@ -31,6 +35,8 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 - 🌱 Currently learning **Generative AI, advanced AI integrations, and modern web tech**
 - 💬 Ask me about **web development, TypeScript, APIs, and AI-powered apps**
 - ⚡ Fun fact: I turn complex ideas into working AI projects faster than most people expect
+
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" /></div>
 
 ## `> ls tech-stack/`
 
@@ -52,10 +58,12 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 | 🗄️ Data & Backend | MongoDB, MySQL, Firebase, Supabase |
 | 📊 ML / Data Tools | PyTorch, scikit-learn, NumPy, Pandas |
 
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" /></div>
+
 ## `> ls featured-projects/`
 
 <details open>
-<summary><b>▶ AI PDF ChatBot</b> &mdash; chat with your documents</summary>
+<summary><b>▶ AI PDF ChatBot</b> — chat with your documents</summary>
 
 | Aspect | Detail |
 | :-- | :-- |
@@ -65,7 +73,7 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 </details>
 
 <details>
-<summary><b>▶ AI Agent with Long Memory</b> &mdash; persistent-memory AI agent</summary>
+<summary><b>▶ AI Agent with Long Memory</b> — persistent-memory AI agent</summary>
 
 | Aspect | Detail |
 | :-- | :-- |
@@ -75,7 +83,7 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 </details>
 
 <details>
-<summary><b>▶ GitHub Bot – Auto Reviews PRs</b> &mdash; automated PR review bot</summary>
+<summary><b>▶ GitHub Bot – Auto Reviews PRs</b> — automated PR review bot</summary>
 
 | Aspect | Detail |
 | :-- | :-- |
@@ -85,7 +93,7 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 </details>
 
 <details>
-<summary><b>▶ StudySprint</b> &mdash; study/productivity app</summary>
+<summary><b>▶ StudySprint</b> — study / productivity app</summary>
 
 | Aspect | Detail |
 | :-- | :-- |
@@ -95,7 +103,7 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 </details>
 
 <details>
-<summary><b>▶ HashEbooks</b> &mdash; ebook platform</summary>
+<summary><b>▶ HashEbooks</b> — ebook platform</summary>
 
 | Aspect | Detail |
 | :-- | :-- |
@@ -105,7 +113,7 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 </details>
 
 <details>
-<summary><b>▶ Z-Axis</b> &mdash; web project</summary>
+<summary><b>▶ Z-Axis</b> — web project</summary>
 
 | Aspect | Detail |
 | :-- | :-- |
@@ -114,12 +122,14 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 
 </details>
 
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" /></div>
+
 ## `> github-analytics --live`
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=HemanthMadhusudhan&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=HemanthMadhusudhan&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
+<img height="165" src="https://streak-stats.demolab.com/?user=HemanthMadhusudhan&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthMadhusudhan&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
 
@@ -132,6 +142,20 @@ OPEN_TO  =  AI / Full-Stack Engineering roles
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HemanthMadhusudhan&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true" />
 </div>
+
+<div align="center">
+
+### `> snake.exe`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HemanthMadhusudhan/HemanthMadhusudhan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HemanthMadhusudhan/HemanthMadhusudhan/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation eating my contribution graph" src="https://raw.githubusercontent.com/HemanthMadhusudhan/HemanthMadhusudhan/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=3&color=CAFF3C" /></div>
 
 ## `> cat current-focus.yaml`
 
@@ -158,6 +182,6 @@ open_to:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://linkedin.com/in/hemanthmadhusudhan)
 [![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:hemanthmadhusudhan@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0A0F08,100:1A2B1A&height=120&section=footer" />
 
 </div>
