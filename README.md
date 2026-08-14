@@ -1,12 +1,163 @@
-# 💫 About Me:
-•🔭 I’m currently working on AI-based projects and building smart web applications with real-world integrations<br>•👯 I’m looking to collaborate on Innovative AI, Generative AI, and full-stack projects that solve practical problems  <br>•🤝 I’m looking for help with Scaling AI applications and improving system design for production-level projects  <br>•🌱 I’m currently learning Generative AI, advanced AI integrations, and modern web technologies  <br>•💬 Ask me about Web development, TypeScript, APIs, AI integrations, and building AI-powered apps (Gen AI)  <br>•⚡ Fun fact I love turning complex ideas into working AI projects faster than most people expect 🚀
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&height=200&section=header&text=HEMANTH%20MADHUSUDHAN&fontSize=40&fontColor=CAFF3C&desc=AI%20%26%20Full-Stack%20Developer&descColor=8AFF57&animation=fadeIn" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanthmadhusudhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemanthmadhusudhan@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+AI+%2F+Full-Stack+Developer;%24+focus+%E2%86%92+GenAI+%7C+Agents+%7C+Web+Apps;%24+cat+open-to.txt+%E2%86%92+AI+%26+Full-Stack+roles;%24+status+%E2%86%92+Building+in+public+%F0%9F%9A%80" />
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://linkedin.com/in/hemanthmadhusudhan)
+[![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:hemanthmadhusudhan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=0A0F08)](https://github.com/HemanthMadhusudhan)
 
+![Profile Views](https://komarev.com/ghpvc/?username=HemanthMadhusudhan&color=CAFF3C&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## `> whoami`
+
+I build AI-powered applications and full-stack web products — from GenAI agents to production-ready apps with real-world integrations.
+
+```bash
+$ cat .profile
+
+ROLE     =  AI & Full-Stack Developer
+STACK    =  TypeScript · Python · React · Node.js
+DOMAIN   =  Generative AI  |  AI Agents  |  Full-Stack Web
+OPEN_TO  =  AI / Full-Stack Engineering roles
+```
+
+- 🔭 Currently working on **AI-based projects** and smart web apps with real-world integrations
+- 👯 Looking to collaborate on **Generative AI, AI agents, and full-stack** projects that solve practical problems
+- 🤝 Looking for help with **scaling AI applications** and production-level system design
+- 🌱 Currently learning **Generative AI, advanced AI integrations, and modern web tech**
+- 💬 Ask me about **web development, TypeScript, APIs, and AI-powered apps**
+- ⚡ Fun fact: I turn complex ideas into working AI projects faster than most people expect
+
+## `> ls tech-stack/`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=html,mysql,mongodb,firebase,supabase,vercel,netlify,oracle&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&theme=dark" />
+
+</div>
+
+## `> cat expertise.md`
+
+| Domain | Focus |
+| :-- | :-- |
+| 🤖 Generative AI | Building AI agents, LLM-powered tools, chatbots |
+| 🌐 Full-Stack Web | React / Next.js frontends, Node.js backends |
+| 🔌 AI Integrations | Connecting LLMs and APIs into real products |
+| 🗄️ Data & Backend | MongoDB, MySQL, Firebase, Supabase |
+| 📊 ML / Data Tools | PyTorch, scikit-learn, NumPy, Pandas |
+
+## `> ls featured-projects/`
+
+<details open>
+<summary><b>▶ AI PDF ChatBot</b> &mdash; chat with your documents</summary>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | TypeScript |
+| **Repo** | [View](https://github.com/HemanthMadhusudhan/AI_PDF-ChatBot) |
+
+</details>
+
+<details>
+<summary><b>▶ AI Agent with Long Memory</b> &mdash; persistent-memory AI agent</summary>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python |
+| **Repo** | [View](https://github.com/HemanthMadhusudhan/AI-Agent-with-long-Memory) |
+
+</details>
+
+<details>
+<summary><b>▶ GitHub Bot – Auto Reviews PRs</b> &mdash; automated PR review bot</summary>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | TypeScript |
+| **Repo** | [View](https://github.com/HemanthMadhusudhan/Github-Bot-Auto-Reviews-PR-s) |
+
+</details>
+
+<details>
+<summary><b>▶ StudySprint</b> &mdash; study/productivity app</summary>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | TypeScript |
+| **Repo** | [View](https://github.com/HemanthMadhusudhan/StudySprint) |
+
+</details>
+
+<details>
+<summary><b>▶ HashEbooks</b> &mdash; ebook platform</summary>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | TypeScript |
+| **Repo** | [View](https://github.com/HemanthMadhusudhan/HashEbooks) |
+
+</details>
+
+<details>
+<summary><b>▶ Z-Axis</b> &mdash; web project</summary>
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | JavaScript |
+| **Repo** | [View](https://github.com/HemanthMadhusudhan/Z-Axis) |
+
+</details>
+
+## `> github-analytics --live`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HemanthMadhusudhan&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthMadhusudhan&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthMadhusudhan&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
+
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HemanthMadhusudhan&theme=matrix&no-frame=true&column=7&margin-w=8" />
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HemanthMadhusudhan&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true" />
+</div>
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Generative AI
+  - Advanced AI integrations
+  - Modern web technologies
+
+building:
+  - AI agents with long-term memory
+  - AI-powered developer tools (auto PR review bot)
+  - AI-integrated web applications
+
+open_to:
+  - AI Engineering roles
+  - Full-Stack Engineering roles
+```
+
+## `> connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CAFF3C?style=for-the-badge&logo=linkedin&logoColor=0A0F08)](https://linkedin.com/in/hemanthmadhusudhan)
+[![Email](https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08)](mailto:hemanthmadhusudhan@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&height=100&section=footer" />
+
+</div>
